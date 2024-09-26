@@ -322,6 +322,7 @@ section {
   align-items: center;
   flex-wrap: wrap-reverse;
   gap: 1.5rem;
+  
 }
 #contact .row form {
   flex: 1 1 40rem;
@@ -375,6 +376,7 @@ section {
   display: block;
   color: #666;
   padding: 1rem 0;
+  text-transform: none;
 }
 .footer .box-container .box a:hover {
   color: var(--pink);
